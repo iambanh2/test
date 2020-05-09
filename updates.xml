@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='https://www.google.com/update2/response' protocol='2.0'>
   <app appid='gcdcilaehdlcfidagcnajlfbbnelfacg'>
-    <updatecheck codebase='https://github.com/iambanh2/test/mte_v2.crx' version='2.0' />
+    <updatecheck codebase='https://github.com/iambanh2/test/raw/master/dist.crx' version='2.0' />
   </app>
 </gupdate>
